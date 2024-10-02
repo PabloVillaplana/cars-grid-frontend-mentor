@@ -23,6 +23,7 @@ body{
 .container p{
     margin: 2em 0 5em;
     font-weight: lighter;
+    height: 120px;
     /* padding: 0 3em 0 0; */
 }
 .sedans{
